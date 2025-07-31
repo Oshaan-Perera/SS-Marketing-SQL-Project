@@ -13,7 +13,7 @@ The objective was to use SQL to extract actionable insights from company operati
 - SQL Queries for reporting and analysis
 
 ## 📁 Files
-- `SS_Marketing.sql`: Contains all SQL statements used in the analysis
+- `SS_Marketing (Pvt) Ltd.sql`: Contains all SQL statements used in the analysis
 
 ## 📌 Key Takeaways
 - Demonstrated ability to write optimized SQL queries
